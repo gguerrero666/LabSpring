@@ -1,4 +1,4 @@
-package com.labspring.web;
+package com.labspring.web.controller;
 
 import com.labspring.web.model.Example;
 import com.labspring.web.service.ServiceExample;
